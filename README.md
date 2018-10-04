@@ -44,3 +44,12 @@
 **Thoughts**: still wrestling with markdown tables!!! but I think I'm almost finished
 
 ***
+
+### Day 04:  
+#### ```October 04, Thursday  ```
+
+**Today's Progress**:  Finished with the homework for the Advanced CSS Concepts course, made me seriously consider to have a look at my old projects' CSS. I have many-many courses lined up to take, will see where I can squeeze a little time for that. I have gone through a lot of Math practice today, feeling good about it, want to wrap this Algebra course up as fast as I can so I can procede with Precalculus.
+
+**Thoughts**: markdown tables are ready in the LearningPath repo, much better :)
+
+***
